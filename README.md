@@ -45,4 +45,5 @@ var elements = [ // WARN: the last is on the top
 ## Example:
 
 http://study.acgme.cn/jQuery.preloader/preloader-test.html 
+
 https://www.acgme.cn/ 
