@@ -25,7 +25,7 @@ var options = {
 		}
 	},
 	loaded: { // onload shield disappear
-		'delay': '111.6', // when delay comes to -1, shield disappear
+		'delay': '1.6', // when delay comes to -1, shield disappear
 		'step': '0.02', // every interval delay-=step
 		'interval': '28', // clock interval
 	}
